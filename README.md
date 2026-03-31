@@ -42,7 +42,7 @@ This is an **Autonomous Job-Search Agent** designed with a **Reasoning Engine**.
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/shubthewiz/job-agent.git](https://github.com/shubthewiz/job-agent.git)
+git clone 
 
 # Install dependencies
 pip install -r requirements.md
