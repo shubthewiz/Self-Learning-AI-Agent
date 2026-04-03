@@ -10,11 +10,7 @@ This is an **Autonomous Job-Search Agent** designed with a **Reasoning Engine**.
 
 ---
 
-## 📺 Demo
-![Job Agent Demo](link-to-your-gif-or-video-here)
-*The agent attempting LinkedIn, hitting a login block, and pivoting to Indeed.*
 
----
 
 ## ✨ Key Features
 * **Logic Pivot:** When a platform blocks the agent, it uses LLM-based reasoning to choose the "safest next move."
